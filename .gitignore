@@ -1,0 +1,12 @@
+bench/cache_bench
+bench/pointer_chase
+bench/hashmap_bench
+bench/false_sharing
+bench/branch_pred
+bench/alloc_loop
+bench/lock_contention
+bench/small_io
+bench/copy_bench
+bench/cache_bench_novec
+*.o
+.DS_Store
