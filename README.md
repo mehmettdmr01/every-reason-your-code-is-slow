@@ -1,7 +1,9 @@
 # Every Reason Your Code Is Slow — the measurements
 
 Source for every number in the video **["Every Reason Your Code Is Slow, Explained in 14 Minutes"](https://youtu.be/kwTcK_RMnz4)**
-(channel: Twelve Reasons). Watch the video: https://youtu.be/kwTcK_RMnz4 Each benchmark is a single C or Python file; no dependencies beyond
+(channel: Twelve Reasons). Watch the video: https://youtu.be/kwTcK_RMnz4
+
+Each benchmark is a single C or Python file; no dependencies beyond
 clang, pthreads and NumPy (item 11 only).
 
 | # | Reason | File | What it measures | Ratio in the video |
